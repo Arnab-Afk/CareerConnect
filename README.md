@@ -1,7 +1,5 @@
 <h1 align="center">
-    <a href="https://career-connect-ten.vercel.app/">
-    <img src="./.github/assets/careerconnect-b.png">
-    </a>
+    
     <a href="https://career-connect-ten.vercel.app/">
     <img src="./.github/assets/careerconnect-w.png">
     </a>
