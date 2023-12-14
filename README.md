@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <i align="center"> Your Gateway to Seamless Career Connections 🚀</i>
+  <i align="center"> Your Gateway to Seamless Career Connections By Team Nowhere🚀</i>
 </p>
 
 <h4 align="center">
