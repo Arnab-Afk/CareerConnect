@@ -1,11 +1,11 @@
 <h1 align="center">
     <a href="https://career-connect-ten.vercel.app/">
-    <img src="./.github/assets/careerconnect-w.png">
+    <img src="https://github.com/Arnab-Afk/CareerConnect/blob/main/.github/assets/Untitled%20design%20(1).svg">
     </a>
 </h1>
 
 <p align="center">
-  <i align="center">Instantly generate production-ready Node.js backend apps 🚀</i>
+  <i align="center"> Your Gateway to Seamless Career Connections 🚀</i>
 </p>
 
 <h4 align="center">
