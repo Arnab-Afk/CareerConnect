@@ -44,8 +44,47 @@ In the ever-evolving landscape of job markets, CarrerConnect emerges as a revolu
 &nbsp;
     <img width="49%" src="https://github.com/Arnab-Afk/CareerConnect/blob/main/.github/assets/empl.png" alt="employers"/>
 </p> 
-    
-
-    
 </details>
 
+## Usage 
+To get started with Amplication, the hosted version of the product can be used. You can get started immediately at [https://career-connect-ten.vercel.app/](https://career-connect-ten.vercel.app/). 
+
+## Development
+Alternatively, instead of using the hosted version of the product, Amplication can be run locally for code generation purposes or contributions - if so, please refer to our [contributing](#contributing_anchor) section.
+
+<details open>
+<summary>
+Pre-requisites
+</summary> <br />
+To be able to start development on Amplication, make sure that you have the following prerequisites installed:
+
+###
+
+- Node.js
+- Git
+</details>
+
+<details open>
+<summary>
+Running Amplication
+</summary> <br />
+
+**BEFORE** you run the following steps make sure:
+1. You have install  locally on you machine ```npm install ```
+2. You are using a supported node version (check `engines` `node` in the [package.json](./package.json))
+3. You are using a supported npm version (check `engines` `npm` in the [package.json](./package.json))
+1. Clone the repository and install dependencies:
+```shell
+git clone https://github.com/Arnab-Afk/CareerConnect && cd CareerConnect && npm install
+
+```
+2. Run the setup script, which takes care of installing dependencies, building packages, and setting up the workspace:
+```shell
+npm start
+```
+
+In conclusion, our project represents a transformative leap in the realm of job boards, seamlessly connecting job seekers and employers through an innovative and user-centric platform. By leveraging the power of Firebase and Google integration, we've not only crafted a frictionless and intuitive experience for job seekers but have also prioritized the needs of employers, simplifying their hiring journey.
+</br>
+The user-friendly interface, designed with simplicity in mind, ensures that both job seekers and employers can navigate the platform effortlessly. For job seekers, the streamlined signup process and personalized job recommendations redefine the job search experience. Employers, on the other hand, benefit from an intuitive dashboard, quick job posting capabilities, and efficient candidate management tools.
+</br>
+Thank you for being part of this journey. Together, let's redefine the way people connect with opportunities and build their careers.
