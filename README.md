@@ -13,5 +13,5 @@
 </h4>
 
 <p align="center">
-    <img src="https://github.com/Arnab-Afk/CareerConnect/.github/overview.png" alt="dashboard"/>
+    <img src="https://github.com/Arnab-Afk/CareerConnect/.github/assets/overview.png" alt="dashboard"/>
 </p>
